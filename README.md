@@ -1,4 +1,4 @@
-# Pixelate: GPU-Powered Image Processor ⚡
+# Pixelate: GPU-Powered Image Processor 
 
 ## Overview
 
