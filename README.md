@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pixelate: GPU-Powered Image Processor ⚡
 
 ## Overview
